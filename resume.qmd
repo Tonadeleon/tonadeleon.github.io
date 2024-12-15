@@ -1,89 +1,72 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Tonatiuh de Leon
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+ 
+* [My Portfolio](https://tonadeleon.netlify.app/)
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+* [LinkedIn](https://www.linkedin.com/in/tonadeleon/)     
 
+* Email: kayashy.de.leon@gmail.com
 
-## Currently
+* Phone: (208) 948-3742 
 
-Standing on the shoulders of giants
+---
 
-### Specialized in
+# EDUCATION  
+ 
+**Bachelor of Science in Data Science at BYU-Idaho**
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+* GPA: 4.0 (Major) Graduating Apr 2021 - Apr 2025 
 
+* Minor: Statistics • Economics  
 
-### Research interests
+* BYU-Idaho Certificates: Machine Learning • Business Analytics • Mathematics 
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+---
 
+# RELATED EXPERIENCE 
+ 
+**Data Engineer Intern at The Church of Jesus Christ of Latter-day Saints from Aug 2024 to Dec 2024**
 
-## Education
+* Optimized ETL process for two Databricks tables with automated updates: Streamlined daily data updates through API calls and scripting iterations to handle pagination via SharePoint web and calendar pages, utilizing the Databricks job scheduler for efficient data maintenance. 
 
-`1654-1660`
-__The King's School, Grantham.__
+* Reduced code length by 80% and runtime by 50% in 2 SQL queries: Boosted query performance by reducing runtime from 5 minutes to 2.5 minutes using PySpark functions (e.g., explode, union, anti joins) and iterative for loops, while ensuring 100% data accuracy in cloud migration to Databricks. 
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+* Equipped data analysts with a table updating tool: Built a PySpark widget-based system for live streaming Databricks tables, simplifying maintenance and improving data management efficiency for 
+the team of engineers and analysts. 
+ 
+**Data Analyst Part-Time at BYU-Idaho from Oct 2023 to Aug 2024** 
 
-- Sizar
+* Engineered app for the CFO: built a decision-support app with real-time access to 12 KPIs facilitating 
+executive decision-making and strategic planning through dynamic data analysis and visualization by 
+leveraging SQL for ETL, R for data cleaning, Power-BI and DAX for app visualizations and functionality. 
 
-`1667 - death`
-__Trinity College, Cambridge__
+* Enriched app functionality by leading 4 stakeholder meetings: Implemented key app features by applying user-centered design principles and prioritizing requirements based on stakeholder feedback. 
 
-- Fellow
+* Saved 40+ hours weekly in manual data processes: Streamlined data-sharing and reporting processes of employee records using R, VBA, and custom macros, resulting in significant time savings. 
 
+* Managed over five Power BI reports and updated 50+ DAX measures: Enhanced report accuracy and supported data-driven decisions by ensuring data precision across all reports. 
+ 
+**Analytics Consultant at Aspire365 from Apr 2024 to Aug 2024** 
 
+* Facilitated a successful data utilization audit for Aspire365: Enabled the organization to pass an audit by creating a report featuring 20+ KPIs and data visualizations. The report received high praise from executives, leading to increased client demand for further data-driven insights. 
 
-## Awards
+* Identified 4 key patient groups for targeted therapy improvements: Increased treatment effectiveness by analyzing depression and anxiety data using ANOVA hypothesis testing, identifying four focus groups in need of help based on sex, age, and location. 
 
-`2012`
-President, *Royal Society*, London, UK
+* Contributed to an R Shiny app used by executives: Delivered an advanced visualization tool that dynamically generates over 100 interactive visualizations based on user inputs. Collaborated with a six
+member team to deliver the app, which received positive client feedback for significantly enhancing decision-making and usability. 
 
-Associate, *French Academy of Science*, Paris, France
+---
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+**SKILLS BY TYPE AND YEARS OF EXPERIENCE**
+ 
+* Domain Knowledge: Experienced with Education, Health, Business, Financial, and Survey Data. 
+ 
+* Programming & Data Analysis Tools: 3 Years in R, SQL, Python, Power-BI, DAX, Tableau, Excel, VBA. 1 Year in HTML, CSS, and JavaScript.  
+ 
+* Data Science: 2 to 3 Years in Supervised Machine Learning, Regression/Time Series, Probability Theory, Random Variables Distribution Analysis, and Experimental Design. 
+ 
+* Data Engineering: 1 Year in Databricks, Apache/PySpark, Azure, BigQuery, and My/NoSQL. 
+ 
+* Languages: English, Spanish, and Conversational Haitian Creole. 
