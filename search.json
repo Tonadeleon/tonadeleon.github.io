@@ -209,44 +209,9 @@
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "Isaac Newtons’s CV",
+    "title": "Tonatiuh de Leon",
     "section": "",
-    "text": "Physicist, Mathematician, Cambridge professor.\n\nisaac@applesdofall.org | My wikipedia page\n\n\n\nStanding on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples.\n\n\n\n\n1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow\n\n\n\n\n2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
-  },
-  {
-    "objectID": "resume.html#currently",
-    "href": "resume.html#currently",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "Standing on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples."
-  },
-  {
-    "objectID": "resume.html#education",
-    "href": "resume.html#education",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow"
-  },
-  {
-    "objectID": "resume.html#awards",
-    "href": "resume.html#awards",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France"
-  },
-  {
-    "objectID": "resume.html#publications",
-    "href": "resume.html#publications",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001"
-  },
-  {
-    "objectID": "resume.html#occupation",
-    "href": "resume.html#occupation",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "text": "My Portfolio\nLinkedIn\nEmail: kayashy.de.leon@gmail.com\nPhone: (208) 948-3742\n\n\n\nEDUCATION\nBachelor of Science in Data Science at BYU-Idaho\n\nGPA: 4.0 (Major) Graduating Apr 2021 - Apr 2025\nMinor: Statistics • Economics\nBYU-Idaho Certificates: Machine Learning • Business Analytics • Mathematics\n\n\n\n\nRELATED EXPERIENCE\nData Engineer Intern at The Church of Jesus Christ of Latter-day Saints from Aug 2024 to Dec 2024\n\nOptimized ETL process for two Databricks tables with automated updates: Streamlined daily data updates through API calls and scripting iterations to handle pagination via SharePoint web and calendar pages, utilizing the Databricks job scheduler for efficient data maintenance.\nReduced code length by 80% and runtime by 50% in 2 SQL queries: Boosted query performance by reducing runtime from 5 minutes to 2.5 minutes using PySpark functions (e.g., explode, union, anti joins) and iterative for loops, while ensuring 100% data accuracy in cloud migration to Databricks.\nEquipped data analysts with a table updating tool: Built a PySpark widget-based system for live streaming Databricks tables, simplifying maintenance and improving data management efficiency for the team of engineers and analysts.\n\nData Analyst Part-Time at BYU-Idaho from Oct 2023 to Aug 2024\n\nEngineered app for the CFO: built a decision-support app with real-time access to 12 KPIs facilitating executive decision-making and strategic planning through dynamic data analysis and visualization by leveraging SQL for ETL, R for data cleaning, Power-BI and DAX for app visualizations and functionality.\nEnriched app functionality by leading 4 stakeholder meetings: Implemented key app features by applying user-centered design principles and prioritizing requirements based on stakeholder feedback.\nSaved 40+ hours weekly in manual data processes: Streamlined data-sharing and reporting processes of employee records using R, VBA, and custom macros, resulting in significant time savings.\nManaged over five Power BI reports and updated 50+ DAX measures: Enhanced report accuracy and supported data-driven decisions by ensuring data precision across all reports.\n\nAnalytics Consultant at Aspire365 from Apr 2024 to Aug 2024\n\nFacilitated a successful data utilization audit for Aspire365: Enabled the organization to pass an audit by creating a report featuring 20+ KPIs and data visualizations. The report received high praise from executives, leading to increased client demand for further data-driven insights.\nIdentified 4 key patient groups for targeted therapy improvements: Increased treatment effectiveness by analyzing depression and anxiety data using ANOVA hypothesis testing, identifying four focus groups in need of help based on sex, age, and location.\nContributed to an R Shiny app used by executives: Delivered an advanced visualization tool that dynamically generates over 100 interactive visualizations based on user inputs. Collaborated with a six member team to deliver the app, which received positive client feedback for significantly enhancing decision-making and usability.\n\n\nSKILLS BY TYPE AND YEARS OF EXPERIENCE\n\nDomain Knowledge: Experienced with Education, Health, Business, Financial, and Survey Data.\nProgramming & Data Analysis Tools: 3 Years in R, SQL, Python, Power-BI, DAX, Tableau, Excel, VBA. 1 Year in HTML, CSS, and JavaScript.\nData Science: 2 to 3 Years in Supervised Machine Learning, Regression/Time Series, Probability Theory, Random Variables Distribution Analysis, and Experimental Design.\nData Engineering: 1 Year in Databricks, Apache/PySpark, Azure, BigQuery, and My/NoSQL.\nLanguages: English, Spanish, and Conversational Haitian Creole.\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "Machine_Learning/project1.html",
